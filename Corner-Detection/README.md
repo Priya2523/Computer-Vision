@@ -145,5 +145,6 @@ bad lighting or motion blur conditions.
 
 
 **Priya A**
-*AI & Data Science*
+
+**AI & Data Science**
 
