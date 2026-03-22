@@ -86,17 +86,8 @@ Simulate the JBIG2 compression bug in Python and prove its impact using:
 - scikit-image (SSIM)
 - pytesseract (OCR)
 
----
-
-## 🚀 How to Run
-
-1. Open [Google Colab](https://colab.research.google.com)
-2. Upload `xerox_compression_bug_CV.ipynb`
-3. Run cells one by one from top to bottom
-
----
-
-## 👤 Author
+-
 
 **Priya A**
-AI & Data Science — Computer Vision Assignment
+AI & Data Science 
+Computer Vision Assignment
