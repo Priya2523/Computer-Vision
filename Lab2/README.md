@@ -32,12 +32,6 @@ Example:
 ### What is U-Net?
 U-Net is a CNN architecture with a unique shape:
 
-
-
-
-
-
-
 - **Encoder** → Extracts features (downsampling)
 - **Bottleneck** → Deepest compressed representation
 - **Decoder** → Reconstructs spatial info (upsampling)
@@ -188,7 +182,9 @@ For each detected object:
 
 
 **Priya A**
-AI & Data Science — Computer Vision Lab 2
+
+
+AI & Data Science — Computer Vision 
 
 
 
