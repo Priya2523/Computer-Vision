@@ -1,7 +1,9 @@
 # 🖼️ Lab 5 — Image Stitching & Panorama Creation
 
 **Course:** Computer Vision
+
 **Professor:** Chintan Patel
+
 **Student:** Priya A
 
 ## 🎯 Objective
